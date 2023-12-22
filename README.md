@@ -12,4 +12,4 @@ This proeject forced me to critically think and use creative ways to solve some 
 I saw that fireBase requests are not unlimited so in order to reduce the amount of requests I made a setState that takes in the text 
 and then adds it into the DB every 250ms; this would reduce the amount of requests. This concept is called debouncing. 
 
-it was fun to work on and am excited to use these tools again in future projects! 
+it was fun to work on and am excited to use these tools again in future projects!  
